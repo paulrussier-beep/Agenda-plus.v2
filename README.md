@@ -30,6 +30,7 @@ npm run build
 - Gestion des matières et des moyennes.
 - Ajout, suppression et validation des tâches.
 - Interface pensée pour ordinateur Windows/macOS via navigateur.
+- Interface responsive utilisable sur ordinateur, tablette et téléphone, avec navigation tactile et cartes adaptées aux petits écrans.
 
 ## Phases 3 à 5
 
